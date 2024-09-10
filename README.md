@@ -1,7 +1,6 @@
-# sqlserverdriver
+# SQL Server Driver
 
-```
-Driver SQL Server for PHP
-7.4 => sqlserver74.zip
-8 => sqlserver8.zip
-```
+| **PHP Version** | **SQL Server File**     |
+|-----------------|-------------------------|
+| 7.4             | `sqlserver74.zip`       |
+| 8.0             | `sqlserver8.zip`        |
